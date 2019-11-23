@@ -1,4 +1,9 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(127, 255, 153); font-variant-numeric: 12px; padding: 50px;
 }
-h1{f}
+img { padding: 100px;}
+h1 { padding: 50px;}
+li { font-family: arial, verdena, sans-serif;
+line-height: 1.8em;
+color: blue; display: inline;
+margin-right: 10px;}
